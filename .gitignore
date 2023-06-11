@@ -3,7 +3,7 @@
 # dependencies
 node_modules/
 # .env
-build/
+# build/
 # /.pnp
 # .pnp.js
 
